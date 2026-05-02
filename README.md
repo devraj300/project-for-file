@@ -1,3 +1,3 @@
 # demo-
-yd my first project 
+yo my first project 
 auther- devraj singh 
